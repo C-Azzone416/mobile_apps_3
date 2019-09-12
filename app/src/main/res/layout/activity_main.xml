@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- TODO 3: Replace hardcoded strings with string resources -->
+
 <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -30,7 +30,7 @@
             android:layout_width="@dimen/image_layout_width"
             android:layout_height="@dimen/image_layout_height"
             android:layout_marginBottom="@dimen/image_margin_bottom"
-            android:src="@drawable/ic_country"
+            android:src="@drawable/ic_usa"
             app:layout_constraintBottom_toTopOf="@+id/country_title_text"
             app:layout_constraintDimensionRatio="H, 1:1"
             app:layout_constraintEnd_toEndOf="parent"
