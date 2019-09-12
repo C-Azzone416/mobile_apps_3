@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">20sp</dimen>
+    <dimen name="body_text_size">16sp</dimen>
+    <dimen name="lineHeight">24dp</dimen>
+
+    <dimen name="paddingStart">24dp</dimen>
+    <dimen name="paddingEnd">24dp</dimen>
+    <dimen name="margin_bottom">24dp</dimen>
+
+    <dimen name="image_layout_width">128dp</dimen>
+    <dimen name="image_layout_height">0dp</dimen>
+    <dimen name="image_margin_bottom">12dp</dimen>
+</resources>
