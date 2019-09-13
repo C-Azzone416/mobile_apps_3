@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.google.android.material.snackbar.Snackbar;
 
-// TODO 4: Define the alternative resources needed to have different content and look n feel depending on the device language.
+
 
 public class MainActivity extends AppCompatActivity {
 

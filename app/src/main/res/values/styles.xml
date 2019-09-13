@@ -19,7 +19,7 @@
     </style>
 
     <style name="AppTheme.Button" parent="TextAppearance.AppCompat.Button">
-        <item name="android:backgroundTint">@color/button_color</item>     //based on implementation this line is redundant. uncommented based on todo 8 instructions
+<!--        <item name="android:backgroundTint">@color/button_color</item>     //removed this again line since button color change no longer worked-->
         <item name="android:textColor">@android:color/white</item>
         <item name="android:paddingStart">@dimen/paddingStart</item>
         <item name="android:paddingEnd">@dimen/paddingEnd</item>
